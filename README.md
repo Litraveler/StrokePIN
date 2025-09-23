@@ -4,7 +4,7 @@ More details can be found in paper "Jingyu Yao, Wang Ding. StrokePIN: Enhancing 
 
 1. Copyright and License
    
-The copyright of this database belongs to Nankai University.You may use this data under the CC BY-NC-SA 4.0 license:
+    The copyright of this database belongs to Nankai University.You may use this data under the CC BY-NC-SA 4.0 license:
 
     -For non-commercial purposes (research, teaching): You are free to download, copy, and modify the data, but must indicate the source and share derivative works under the same license;
 

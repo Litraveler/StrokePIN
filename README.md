@@ -3,21 +3,31 @@ This is a novel multimodality keystroke dynamics dataset, encompassing keystroke
 More details can be found in paper "Jingyu Yao, Wang Ding. StrokePIN: Enhancing PIN Authentication with Keystroke Dynamics for Mobile Devices".
 
 1. Copyright and License
+   
 The copyright of this database belongs to Nankai University.You may use this data under the CC BY-NC-SA 4.0 license:
--For non-commercial purposes (research, teaching): You are free to download, copy, and modify the data, but must indicate the source and share derivative works under the same license;
--For commercial purposes: You must apply for written authorization in advance via email: jingyuyao@mail.nankai.edu.cn.
 
-2. Disclaimer
-This data is made public solely for research purposes. Any research conclusions, business decisions, or applications based on this data are at the user's own risk. The authors shall not be liable for any losses caused by the use of this data.
+    -For non-commercial purposes (research, teaching): You are free to download, copy, and modify the data, but must indicate the source and share derivative works under the same license;
 
-3. Data Source and Processing
-Original data: Collected in 2025 from 97 voluntary participants;
-Processing: Anonymization has been completed;
-Third-party data: No third-party data is referenced; all data is self-collected.
+    -For commercial purposes: You must apply for written authorization in advance via email: jingyuyao@mail.nankai.edu.cn.
 
-4. Ethics and Compliance
-All participants clearly understood that their data would be used for research purposes;
-All personally identifiable information (such as names, device serial numbers) has been removed, making it impossible to reverse-identify individual participants.
+3. Disclaimer
+   
+    -This data is made public solely for research purposes. Any research conclusions, business decisions, or applications based on this data are at the user's own risk. The authors shall not be liable for any losses caused by the use of this data.
 
-5. Feedback
-Emails: jingyuyao@mail.nankai.edu.cn and wangding@nankai.edu.cn
+5. Data Source and Processing
+   
+    -Original data: Collected in 2025 from 97 voluntary participants;
+
+    -Processing: Anonymization has been completed;
+
+    -Third-party data: No third-party data is referenced; all data is self-collected.
+
+7. Ethics and Compliance
+   
+    -All participants clearly understood that their data would be used for research purposes;
+
+    -All personally identifiable information (such as names, device serial numbers) has been removed, making it impossible to reverse-identify individual participants.
+
+9. Feedback
+   
+    -Emails: jingyuyao@mail.nankai.edu.cn and wangding@nankai.edu.cn

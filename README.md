@@ -1,3 +1,6 @@
+When using this dataset, please cite the original work:
+Yao J , Wang D .StrokePIN: Enhancing PIN Authentication with Keystroke Dynamics for Mobile Devices[J].IEEE Transactions on Dependable and Secure Computing, PP[2026-03-20].DOI:10.1109/TDSC.2026.3667918.
+
 This is a novel multimodality keystroke dynamics dataset, encompassing keystroke dynamics data for 20 distinct PINs collected from 97 users, totaling 18,935 unique entries. The dataset captures user data under two behavioral states: walking and sitting. It consists of two complementary sub-databases: a Motion Sensor Database and a Touch Database, each recording specific dimensions of user interaction. The data of touch sensors are recorded at a maximum rate of 120 Hz. The sensor sampling rate is configured to SensorManager.SENSOR_DELAY_NORMAL, where the sampling frequency is 5 Hz.
 
 More details can be found in paper "Jingyu Yao, Wang Ding. StrokePIN: Enhancing PIN Authentication with Keystroke Dynamics for Mobile Devices".
